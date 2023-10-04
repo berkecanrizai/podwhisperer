@@ -212,3 +212,6 @@ $RECYCLE.BIN/
 .ipynb_checkpoints
 samconfig.toml
 *.gitignored.*
+
+*.pkl
+*.nz
